@@ -1,0 +1,72 @@
+[
+  {
+     "Auth0":[
+        {
+           "title":"Demo",
+           "url":"https://demos.gocircle.ai/d/auth0/",
+           "active":false,
+           "linkName": "auth0-demo"
+        }
+     ]
+  },
+  {
+     "Circle Access Desktop":[
+        {
+           "title":"Demo",
+           "url":"https://internal.gocircle.ai/api/demos/php/?no_header=1",
+           "active":true,
+           "linkName": "desktop-demo"
+        }
+     ]
+  },
+  {
+     "Circle Access Mobile":[
+        {
+           "title":"Demo",
+           "url":"https://circleauth.gocircle.ai/demo/?no_header=1",
+           "active":false,
+           "linkName": "mobile-demo"
+        }
+     ]
+  },
+  {
+     "Circle Access 360":[
+        {
+           "title":"Demo",
+           "url":"https://internal.gocircle.ai/api/demos/php/?no_header=1",
+           "active":false,
+           "linkName": "360-demo"
+        }
+     ]
+  },
+  {
+     "Circle Guard":[
+        {
+           "title":"Demo",
+           "url":"https://dev.gocircle.ai/developer-hub/demos/",
+           "active":false,
+           "linkName": "guard-demo"
+        }
+     ]
+  },
+  {
+     "Circle Verite":[
+        {
+           "title":"Demo",
+           "url":"https://internal.gocircle.ai/api/demos/authorization/",
+           "active":false,
+           "linkName": "verite-demo"
+        }
+     ]
+  },
+  {
+     "Circle File Share":[
+      {
+         "title":"Demo",
+         "url":"https://demos.gocircle.ai/d/filesharing/",
+         "active":false,
+         "linkName": "file-share-demo"
+      }
+     ]
+  }
+]
