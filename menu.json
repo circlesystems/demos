@@ -1,5 +1,41 @@
 [
-  {
+   {
+      "Circle":[
+      {
+         "title":"Developer Hub",
+           "url":"",
+           "active":false,
+           "linkName": "developer-hub"
+
+      },
+
+      {
+         "title":"Demos Home",
+           "url":"https://dev.gocircle.ai/developer-hub/demos/",
+           "active":false,
+           "linkName": "developer-hub"
+
+      },
+
+      {
+         "title":"Sign-up",
+           "url":"https://dev.gocircle.ai/circle-auth/registration/select-registration-type/?lid=9",
+           "active":false,
+           "linkName": "sign-up"
+
+      },
+
+      {
+         "title":"Log-in",
+           "url":"https://dev.gocircle.ai/circle-auth/auth/",
+           "active":false,
+           "linkName": "Log-in"
+
+      }
+
+   ]
+   },
+   {
      "Auth0":[
         {
            "title":"Demo",
