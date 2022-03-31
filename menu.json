@@ -54,7 +54,15 @@
   },
   {
      "Circle Access Mobile":[
-        {
+      
+      {
+         "title":"Getting Started",
+         "url":"https://dev.gocircle.ai/developer-hub/demos/how-to-get-started-with-circle-access-demo/",
+         "active":false,
+         "linkName": "mobile-demo-getting-started"
+      },
+      
+      {
            "title":"Demo",
            "url":"https://circleauth.gocircle.ai/demo/?no_header=1",
            "active":false,
