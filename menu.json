@@ -6,16 +6,14 @@
            "url":"",
            "active":false,
            "linkName": "developer-hub",
-           "target": "self",
-
       },
 
       {
          "title":"Demos Home",
            "url":"https://dev.gocircle.ai/developer-hub/demos/",
            "active":false,
-           "linkName": "developer-hub"
-
+           "linkName": "developer-hub",
+           "target": "self",
       },
 
       {
