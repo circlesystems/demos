@@ -5,9 +5,9 @@
          "title":"Developer Hub",
            "url":"",
            "active":false,
-           "linkName": "developer-hub"
+           "linkName": "developer-hub",
+           "target": "self"
       },
-
       {
          "title":"Demos Home",
            "url":"https://dev.gocircle.ai/developer-hub/demos/",
@@ -15,23 +15,21 @@
            "linkName": "developer-hub",
            "target": "self"
       },
-
       {
          "title":"Sign-up",
            "url":"https://dev.gocircle.ai/circle-auth/registration/select-registration-type/?lid=9",
            "active":false,
-           "linkName": "sign-up"
+           "linkName": "sign-up",
+           "target": "self"
 
       },
-
       {
          "title":"Log-in",
            "url":"https://dev.gocircle.ai/circle-auth/auth/",
            "active":false,
-           "linkName": "Log-in"
-
+           "linkName": "Log-in",
+           "target": "self"
       }
-
    ]
    },
    {
