@@ -13,7 +13,7 @@
            "url":"https://dev.gocircle.ai/developer-hub/demos/",
            "active":false,
            "linkName": "developer-hub",
-           "target": "self",
+           "target": "self"
       },
 
       {
