@@ -32,10 +32,26 @@
       }
    ]
    },
+   
    {
-     "Auth0":[
-        {
-           "title":"Demo",
+     "Circle Access Desktop with Auth0 + Circle of Trust":[
+      
+      {
+         "title":"Circle Access Desktop Introduction",
+         "url":"https://dev.gocircle.ai/developer-hub/demos/how-to-get-started-with-circle-access-demo-2/",
+         "active":false,
+         "linkName": "desktop-demo-getting-started"
+      },
+
+      {
+         "title":"Circle Access Desktop Demo",
+         "url":"https://internal.gocircle.ai/api/demos/php/?no_header=1",
+         "active":true,
+         "linkName": "desktop-demo"
+      },
+      
+      {
+           "title":"Auth0 Demo",
            "url":"https://demos.gocircle.ai/d/auth0/",
            "active":false,
            "linkName": "auth0-demo",
@@ -43,28 +59,12 @@
         }
      ]
   },
-  {
-     "Circle Access Desktop":[
-        
-        {
-         "title":"Getting Started",
-         "url":"https://dev.gocircle.ai/developer-hub/demos/how-to-get-started-with-circle-access-demo-2/",
-         "active":false,
-         "linkName": "desktop-demo-getting-started"
-      },
-        {
-           "title":"Demo",
-           "url":"https://internal.gocircle.ai/api/demos/php/?no_header=1",
-           "active":true,
-           "linkName": "desktop-demo"
-        }
-     ]
-  },
+
   {
      "Circle Access Mobile":[
       
       {
-         "title":"Getting Started",
+         "title":"Introduction",
          "url":"https://dev.gocircle.ai/developer-hub/demos/how-to-get-started-with-circle-access-demo/",
          "active":false,
          "linkName": "mobile-demo-getting-started"
@@ -79,7 +79,17 @@
      ]
   },
   {
+      
+
      "Circle Access 360":[
+
+      {
+         "title":"Introduction",
+         "url":"https://dev.gocircle.ai/developer-hub/demos/introduction-to-circle-access-360-demo/",
+         "active":false,
+         "linkName": "mobile-demo-getting-started"
+      },
+
         {
            "title":"Demo",
            "url":"https://internal.gocircle.ai/api/demos/php/?no_header=1",
