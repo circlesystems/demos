@@ -39,7 +39,6 @@
            "url":"https://demos.gocircle.ai/d/auth0/",
            "active":false,
            "linkName": "auth0-demo",
-           "target": "self"
         }
      ]
   },
