@@ -54,7 +54,14 @@
            "active":false,
            "linkName": "auth0-demo",
            "target": "self"
-        }
+        },
+
+        {
+         "title":"Start Coding",
+         "url":"https://dev.gocircle.ai/developer-hub/demos/cfa-circle-of-trust/start-coding/",
+         "active":false,
+         "linkName": "auth0-demo"
+      }
      ]
   },
 
