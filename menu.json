@@ -78,13 +78,13 @@
          "title":"Basic Demo",
          "url":"https://circleauth.gocircle.ai/demo/?no_header=1",
          "active":false,
-         "linkName": "mobile-demo"
+         "linkName": "mobile-basic-demo"
       },
       {
            "title":"Interactive Demo",
            "url":"https://circleauth.gocircle.ai/demo/?no_header=1",
            "active":false,
-           "linkName": "mobile-demo"
+           "linkName": "mobile-interactive-demo"
         },
         {
          "title":"Start Coding",
