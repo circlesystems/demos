@@ -76,7 +76,7 @@
       },
       {
          "title":"Basic Demo",
-         "url":"https://circleauth.gocircle.ai/demo/?no_header=1",
+         "url":"https://dev.gocircle.ai/developer-hub/demos/circle-access-mobile-demo/circle-access-mobile-basic-demo/",
          "active":false,
          "linkName": "mobile-basic-demo"
       },
