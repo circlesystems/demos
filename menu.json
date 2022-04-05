@@ -34,7 +34,7 @@
    },
 
    {
-     "Circle Access Desktop with Auth0 + Circle of Trust":[
+     "Circle Access Desktop":[
       
       {
          "title":"Introduction",
@@ -49,7 +49,7 @@
          "linkName": "auth0-demo-tips"
       },
       {
-           "title":"Demo",
+           "title":"Demo: Auth0 + Circle of Trust",
            "url":"https://demos.gocircle.ai/d/auth0/",
            "active":false,
            "linkName": "auth0-demo",
@@ -76,7 +76,7 @@
       },
       {
          "title":"Basic Demo",
-         "url":"https://dev.gocircle.ai/developer-hub/demos/circle-access-mobile-demo/circle-access-mobile-basic-demo/",
+         "url":"https://internal.gocircle.ai/api/demos/access_mobile/?no_header=1",
          "active":false,
          "linkName": "mobile-basic-demo"
       },
