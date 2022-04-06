@@ -149,6 +149,12 @@
          "active":false,
          "linkName": "verite-Introduction"
       },
+      {
+         "title":"Demo Tips",
+         "url":"https://dev.gocircle.ai/developer-hub/demos/circle-verite-authorization/demo-tips-verite-demo/",
+         "active":false,
+         "linkName": "verite-demo-tips"
+      },
         {
            "title":"Demo",
            "url":"https://internal.gocircle.ai/api/demos/authorization/",
