@@ -3,7 +3,7 @@
       "Circle":[
       {
          "title":"Developer Hub",
-           "url":"",
+           "url":"https://dev.gocircle.ai/developer-hub/",
            "active":false,
            "linkName": "developer-hub",
            "target": "self"
