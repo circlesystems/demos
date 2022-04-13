@@ -169,8 +169,7 @@
          "title":"Start Integrating",
          "url":"https://dev.gocircle.ai/developer-hub/demos/circle-verite-authorization/start-coding-verite-demo/",
          "active":false,
-         "linkName": "verite-start-coding",
-         "target": "self"
+         "linkName": "verite-start-coding"
         }
 
      ]
@@ -199,8 +198,7 @@
          "title":"Start Integrating",
          "url":"https://dev.gocircle.ai/developer-hub/demos/circle-prive-demo/start-coding-prive-demo/",
          "active":false,
-         "linkName": "prive-start-coding",
-         "target": "self"
+         "linkName": "prive-start-coding"
       }
      ]
   }
