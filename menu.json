@@ -117,7 +117,8 @@
          "title":"Start Integrating",
          "url":"https://dev.gocircle.ai/developer-hub/demos/circle-access-360/start-coding-ca-360-demo/",
          "active":false,
-         "linkName": "360-start-coding"
+         "linkName": "360-start-coding",
+         "target": "self"
       }
      ]
   },
@@ -139,7 +140,8 @@
          "title":"Start Integrating",
          "url":"https://dev.gocircle.ai/developer-hub/demos/circle-guard-demo/start-coding-guard-demo/",
          "active":false,
-         "linkName": "guard-start-coding"
+         "linkName": "guard-start-coding",
+         "target": "self"
       }
      ]
   },
@@ -167,7 +169,8 @@
          "title":"Start Integrating",
          "url":"https://dev.gocircle.ai/developer-hub/demos/circle-verite-authorization/start-coding-verite-demo/",
          "active":false,
-         "linkName": "verite-start-coding"
+         "linkName": "verite-start-coding",
+         "target": "self"
         }
 
      ]
@@ -196,7 +199,8 @@
          "title":"Start Integrating",
          "url":"https://dev.gocircle.ai/developer-hub/demos/circle-prive-demo/start-coding-prive-demo/",
          "active":false,
-         "linkName": "prive-start-coding"
+         "linkName": "prive-start-coding",
+         "target": "self"
       }
      ]
   }
