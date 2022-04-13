@@ -60,8 +60,7 @@
          "title":"Start Integrating",
          "url":"https://dev.gocircle.ai/developer-hub/demos/cfa-circle-of-trust/start-coding/",
          "active":false,
-         "linkName": "auth0-demo",
-         "target": "self"
+         "linkName": "auth0-demo"
       }
      ]
   },
@@ -91,8 +90,7 @@
          "title":"Start Integrating",
          "url":"https://dev.gocircle.ai/developer-hub/demos/circle-access-mobile-demo/start-coding-cam-demo/",
          "active":false,
-         "linkName": "mobile-start-coding",
-         "target": "self"
+         "linkName": "mobile-start-coding"
         }
      ]
   },
@@ -117,8 +115,7 @@
          "title":"Start Integrating",
          "url":"https://dev.gocircle.ai/developer-hub/demos/circle-access-360/start-coding-ca-360-demo/",
          "active":false,
-         "linkName": "360-start-coding",
-         "target": "self"
+         "linkName": "360-start-coding"
       }
      ]
   },
@@ -140,8 +137,7 @@
          "title":"Start Integrating",
          "url":"https://dev.gocircle.ai/developer-hub/demos/circle-guard-demo/start-coding-guard-demo/",
          "active":false,
-         "linkName": "guard-start-coding",
-         "target": "self"
+         "linkName": "guard-start-coding"
       }
      ]
   },
