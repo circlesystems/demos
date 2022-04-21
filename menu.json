@@ -187,7 +187,7 @@
     },
     {
        "title":"Demo",
-       "url":"https://dev.gocircle.ai/developer-hub/demos/circle-vault-demo/demo-tips-vault-demo/",
+       "url":"https://dev.gocircle.ai/developer-hub/demos/circle-vault-demo/video-vault-demo/",
        "active":false,
        "linkName": "prive-demo"
     },
@@ -226,6 +226,34 @@
          "linkName": "prive-start-coding"
       }
      ]
-  }
+  },
+  {
+   "Circle + Auth0":[
+    {
+       "title":"Introduction",
+       "url":"",
+       "active":false,
+       "linkName": "prive-introduction"
+    },
+    {
+       "title":"Demo Tips",
+       "url":"",
+       "active":false,
+       "linkName": "prive-demo-tips"
+    },
+    {
+       "title":"Demo",
+       "url":"",
+       "active":false,
+       "linkName": "prive-demo"
+    },
+    {
+       "title":"Start Integrating",
+       "url":"",
+       "active":false,
+       "linkName": "prive-start-coding"
+    }
+   ]
+}
   
 ]
