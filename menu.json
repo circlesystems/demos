@@ -32,7 +32,6 @@
       }
    ]
    },
-
    {
      "Circle Access Desktop":[
       
@@ -64,7 +63,35 @@
       }
      ]
   },
-
+  
+  {
+   "Circle + Auth0":[
+    {
+       "title":"Introduction",
+       "url":"https://dev.gocircle.ai/developer-hub/demos/circle-auth0/introduction-auth0-demo/",
+       "active":false,
+       "linkName": "prive-introduction"
+    },
+    {
+       "title":"Demo Tips",
+       "url":"https://dev.gocircle.ai/developer-hub/demos/circle-auth0/auth0-demo-tips/",
+       "active":false,
+       "linkName": "prive-demo-tips"
+    },
+    {
+       "title":"Demo",
+       "url":"https://demos.gocircle.ai/d/auth0/",
+       "active":false,
+       "linkName": "prive-demo"
+    },
+    {
+       "title":"Start Integrating",
+       "url":"https://dev.gocircle.ai/developer-hub/demos/circle-auth0/start-integrating-cad-demo/",
+       "active":false,
+       "linkName": "prive-start-coding"
+    }
+   ]
+},
   {
      "Circle Access Mobile":[
       
@@ -226,34 +253,5 @@
          "linkName": "prive-start-coding"
       }
      ]
-  },
-  {
-   "Circle + Auth0":[
-    {
-       "title":"Introduction",
-       "url":"",
-       "active":false,
-       "linkName": "prive-introduction"
-    },
-    {
-       "title":"Demo Tips",
-       "url":"",
-       "active":false,
-       "linkName": "prive-demo-tips"
-    },
-    {
-       "title":"Demo",
-       "url":"",
-       "active":false,
-       "linkName": "prive-demo"
-    },
-    {
-       "title":"Start Integrating",
-       "url":"",
-       "active":false,
-       "linkName": "prive-start-coding"
-    }
-   ]
-}
-  
+  }
 ]
