@@ -119,7 +119,6 @@
       }
      ]
   },
-  
   {
    "Circle Verite":[
     {
@@ -171,6 +170,7 @@
       }
      ]
   },
+  
   {
    "Circle Vault":[
     {
@@ -181,13 +181,13 @@
     },
     {
        "title":"Demo Tips",
-       "url":"https://dev.gocircle.ai/developer-hub/demos/circle-vault-demo/demo-tips-vault-demo/",
+       "url":"https://dev.gocircle.ai/developer-hub/demos/circle-prive-demo/demo-tips-prive-demo/",
        "active":false,
        "linkName": "prive-demo-tips"
     },
     {
        "title":"Demo",
-       "url":"https://demos.gocircle.ai/d/filesharing/",
+       "url":"https://dev.gocircle.ai/developer-hub/demos/circle-vault-demo/demo-tips-vault-demo/",
        "active":false,
        "linkName": "prive-demo"
     },
@@ -196,7 +196,9 @@
        "url":"https://dev.gocircle.ai/developer-hub/demos/circle-vault-demo/start-integrating-vault-demo/",
        "active":false,
        "linkName": "prive-start-coding"
-    },
+    }
+   ]
+},
   {
      "Circle Prive":[
       {
@@ -226,6 +228,4 @@
      ]
   }
   
-   ]
-}
 ]
