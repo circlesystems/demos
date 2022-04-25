@@ -161,7 +161,7 @@
     },
     {
        "title":"Demo",
-       "url":"https://demos.gocircle.ai/d/filesharing/",
+       "url":"https://demos.gocircle.ai/d/auth0/",
        "active":false,
        "linkName": "cot-demo"
     },
