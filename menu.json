@@ -205,12 +205,6 @@
        "linkName": "vault-introduction"
     },
     {
-       "title":"Demo Tips",
-       "url":"https://dev.gocircle.ai/developer-hub/demos/circle-prive-demo/demo-tips-prive-demo/",
-       "active":false,
-       "linkName": "vault-demo-tips"
-    },
-    {
        "title":"Demo",
        "url":"https://dev.gocircle.ai/developer-hub/demos/circle-vault-demo/video-vault-demo/",
        "active":false,
