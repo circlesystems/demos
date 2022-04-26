@@ -14,21 +14,6 @@
            "active":false,
            "linkName": "demos-home",
            "target": "self"
-      },
-      {
-         "title":"Sign-up",
-           "url":"https://dev.gocircle.ai/circle-auth/registration/select-registration-type/?lid=9",
-           "active":false,
-           "linkName": "sign-up",
-           "target": "self"
-
-      },
-      {
-         "title":"Log-in",
-           "url":"https://dev.gocircle.ai/circle-auth/auth/",
-           "active":false,
-           "linkName": "Log-in",
-           "target": "self"
       }
    ]
    },
