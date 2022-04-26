@@ -253,25 +253,25 @@
        "title":"Introduction",
        "url":"https://dev.gocircle.ai/developer-hub/demos/circle-auth0/introduction-auth0-demo/",
        "active":false,
-       "linkName": "circle-intro"
+       "linkName": "auth0-intro"
     },
     {
        "title":"Demo Tips",
        "url":"https://dev.gocircle.ai/developer-hub/demos/circle-auth0/circle-and-auth0-demo-tips/",
        "active":false,
-       "linkName": "circle-demo-tips"
+       "linkName": "auth0-demo-tips"
     },
     {
        "title":"Demo",
        "url":"https://demos.gocircle.ai/d/auth0/",
        "active":false,
-       "linkName": "circle-demo"
+       "linkName": "auth0-demo"
     },
     {
        "title":"Start Integrating",
        "url":"https://dev.gocircle.ai/developer-hub/demos/circle-auth0/start-integrating-cad-demo/",
        "active":false,
-       "linkName": "circle-start-integrating"
+       "linkName": "auth0-start-integrating"
     }
    ]
 }
