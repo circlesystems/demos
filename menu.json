@@ -34,7 +34,7 @@
       },
       {
          "title":"Demo",
-         "url":"https://internal.gocircle.ai/api/demos/php/?no_header=1",
+         "url":"https://demos.gocircle.ai/d/auth0/",
          "active":true,
          "linkName": "CAD-demo"
       },
