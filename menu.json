@@ -28,13 +28,13 @@
       },
       {
          "title":"Demo Tips",
-         "url":"https://dev.gocircle.ai/developer-hub/demos/circle-access-desktop/cad-demo-tips/",
+         "url":"https://dev.gocircle.ai/developer-hub/demos/circle-access-desktop/cad-implementation-tips/",
          "active":false,
          "linkName": "CAD-demo-tips"
       },
       {
          "title":"Demo",
-         "url":"https://demos.gocircle.ai/d/auth0/",
+         "url":"https://dev.gocircle.ai/developer-hub/demos/circle-access-desktop/cad-demo/",
          "active":true,
          "linkName": "CAD-demo"
       },
