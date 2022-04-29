@@ -250,7 +250,8 @@
        "title":"Demo",
        "url":"https://demos.gocircle.ai/d/auth0/",
        "active":false,
-       "linkName": "auth0-demo"
+       "linkName": "auth0-demo",
+       "target": "self"
     },
     {
        "title":"Start Integrating",
