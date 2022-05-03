@@ -23,7 +23,7 @@
       {
          "title":"Introduction",
          "url":"https://dev.gocircle.ai/developer-hub/demos/cfa-circle-of-trust/introduction-cad-demo/",
-         "active":false,
+         "active":true,
          "linkName": "CAD-intro"
       },
       {
@@ -35,7 +35,7 @@
       {
          "title":"Demo",
          "url":"https://dev.gocircle.ai/developer-hub/demos/circle-access-desktop/cad-demo/",
-         "active":true,
+         "active":false,
          "linkName": "CAD-demo"
       },
         {
