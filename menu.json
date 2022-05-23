@@ -3,14 +3,14 @@
       "Circle":[
       {
          "title":"Developer Hub",
-           "url":"https://staging.gocircle.ai/developer-hub/",
+           "url":"https://gocircle.ai/developer-hub/",
            "active":false,
            "linkName": "developer-hub",
            "target": "self"
       },
       {
          "title":"Demos Home",
-           "url":"https://staging.gocircle.ai/developer-hub/demos/",
+           "url":"https://gocircle.ai/developer-hub/demos/",
            "active":false,
            "linkName": "demos-home",
            "target": "self"
@@ -22,13 +22,13 @@
       
       {
          "title":"Introduction",
-         "url":"https://staging.gocircle.ai/developer-hub/demos/cfa-circle-of-trust/introduction-cad-demo/",
+         "url":"https://gocircle.ai/developer-hub/demos/cfa-circle-of-trust/introduction-cad-demo/",
          "active":true,
          "linkName": "CAD-intro"
       },
       {
          "title":"Demo Tips",
-         "url":"https://staging.gocircle.ai/developer-hub/demos/circle-access-desktop/cad-implementation-tips/",
+         "url":"https://gocircle.ai/developer-hub/demos/circle-access-desktop/cad-implementation-tips/",
          "active":false,
          "linkName": "CAD-demo-tips"
       },
@@ -40,7 +40,7 @@
       },
         {
          "title":"Start Integrating",
-         "url":"https://staging.gocircle.ai/developer-hub/demos/cfa-circle-of-trust/start-coding/",
+         "url":"https://gocircle.ai/developer-hub/demos/cfa-circle-of-trust/start-coding/",
          "active":false,
          "linkName": "CAD-start-integrating"
       }
@@ -52,13 +52,13 @@
       
       {
          "title":"Introduction",
-         "url":"https://staging.gocircle.ai/developer-hub/demos/circle-access-mobile-demo/introduction-cam-demo/",
+         "url":"https://gocircle.ai/developer-hub/demos/circle-access-mobile-demo/introduction-cam-demo/",
          "active":false,
          "linkName": "mobile-intro"
       },
       {
          "title":"Basic Demo",
-         "url":"https://internal.gocircle.ai/api/demos/access_mobile/?no_header=1",
+         "url":"https://gocircle.ai/api/demos/access_mobile/?no_header=1",
          "active":false,
          "linkName": "mobile-basic-demo"
       },
@@ -70,7 +70,7 @@
         },
         {
          "title":"Start Integrating",
-         "url":"https://staging.gocircle.ai/developer-hub/demos/circle-access-mobile-demo/start-coding-cam-demo/",
+         "url":"https://gocircle.ai/developer-hub/demos/circle-access-mobile-demo/start-coding-cam-demo/",
          "active":false,
          "linkName": "mobile-start-integrating"
         }
@@ -83,7 +83,7 @@
 
       {
          "title":"Introduction",
-         "url":"https://staging.gocircle.ai/developer-hub/demos/circle-access-360-demo/introduction-ca-360-demo/",
+         "url":"https://gocircle.ai/developer-hub/demos/circle-access-360-demo/introduction-ca-360-demo/",
          "active":false,
          "linkName": "360-intro"
       },
@@ -95,7 +95,7 @@
         },
         {
          "title":"Start Integrating",
-         "url":"https://staging.gocircle.ai/developer-hub/demos/circle-access-360/start-coding-ca-360-demo/",
+         "url":"https://gocircle.ai/developer-hub/demos/circle-access-360/start-coding-ca-360-demo/",
          "active":false,
          "linkName": "360-start-integrating"
       }
@@ -105,13 +105,13 @@
    "Circle Verité":[
     {
        "title":"Introduction",
-       "url":"https://staging.gocircle.ai/developer-hub/demos/circle-verite-authorization/introduction-verite-demo/",
+       "url":"https://gocircle.ai/developer-hub/demos/circle-verite-authorization/introduction-verite-demo/",
        "active":false,
        "linkName": "verite-intro"
     },
     {
        "title":"Demo Tips",
-       "url":"https://staging.gocircle.ai/developer-hub/demos/circle-verite-authorization/demo-tips-verite-demo/",
+       "url":"https://gocircle.ai/developer-hub/demos/circle-verite-authorization/demo-tips-verite-demo/",
        "active":false,
        "linkName": "verite-demo-tips"
     },
@@ -123,7 +123,7 @@
       },
       {
        "title":"Start Integrating",
-       "url":"https://staging.gocircle.ai/developer-hub/demos/circle-verite-authorization/start-coding-verite-demo/",
+       "url":"https://gocircle.ai/developer-hub/demos/circle-verite-authorization/start-coding-verite-demo/",
        "active":false,
        "linkName": "verite-start-integrating"
       }
@@ -134,13 +134,13 @@
    "Circle-of-Trust":[
     {
        "title":"Introduction",
-       "url":"https://staging.gocircle.ai/developer-hub/demos/circle-of-trust-demo/introduction-cot-demo/",
+       "url":"https://gocircle.ai/developer-hub/demos/circle-of-trust-demo/introduction-cot-demo/",
        "active":false,
        "linkName": "cot-introduction"
     },
     {
        "title":"Demo Tips",
-       "url":"https://staging.gocircle.ai/developer-hub/demos/circle-of-trust-demo/circle-of-trust-demo-tips/",
+       "url":"https://gocircle.ai/developer-hub/demos/circle-of-trust-demo/circle-of-trust-demo-tips/",
        "active":false,
        "linkName": "cot-demo-tips"
     },
@@ -153,7 +153,7 @@
     },
     {
        "title":"Start Integrating",
-       "url":"https://staging.gocircle.ai/developer-hub/demos/circle-of-trust-demo/start-integrating-cot-demo/",
+       "url":"https://gocircle.ai/developer-hub/demos/circle-of-trust-demo/start-integrating-cot-demo/",
        "active":false,
        "linkName": "cot-start-integrating"
     }
@@ -163,19 +163,19 @@
      "Circle Guard":[
       {
          "title":"Introduction",
-         "url":"https://staging.gocircle.ai/developer-hub/demos/circle-guard-demo/getting-started-guard-demo/",
+         "url":"https://gocircle.ai/developer-hub/demos/circle-guard-demo/getting-started-guard-demo/",
          "active":false,
          "linkName": "guard-introduction"
       },
         {
            "title":"Demo",
-           "url":"https://staging.gocircle.ai/developer-hub/demos/circle-guard-demo/video-circle-guard-demo/",
+           "url":"https://gocircle.ai/developer-hub/demos/circle-guard-demo/video-circle-guard-demo/",
            "active":false,
            "linkName": "guard-demo"
         },
         {
          "title":"Start Integrating",
-         "url":"https://staging.gocircle.ai/developer-hub/demos/circle-guard-demo/start-coding-guard-demo/",
+         "url":"https://gocircle.ai/developer-hub/demos/circle-guard-demo/start-coding-guard-demo/",
          "active":false,
          "linkName": "guard-start-coding"
       }
@@ -186,19 +186,19 @@
    "Circle Vault":[
     {
        "title":"Introduction",
-       "url":"https://staging.gocircle.ai/developer-hub/demos/circle-vault-demo/introduction-vault-demo/",
+       "url":"https://gocircle.ai/developer-hub/demos/circle-vault-demo/introduction-vault-demo/",
        "active":false,
        "linkName": "vault-introduction"
     },
     {
        "title":"Demo",
-       "url":"https://staging.gocircle.ai/developer-hub/demos/circle-vault-demo/video-vault-demo/",
+       "url":"https://gocircle.ai/developer-hub/demos/circle-vault-demo/video-vault-demo/",
        "active":false,
        "linkName": "vault-demo"
     },
     {
        "title":"Start Integrating",
-       "url":"https://staging.gocircle.ai/developer-hub/demos/circle-vault-demo/start-integrating-vault-demo/",
+       "url":"https://gocircle.ai/developer-hub/demos/circle-vault-demo/start-integrating-vault-demo/",
        "active":false,
        "linkName": "vault-start-integrating"
     }
@@ -208,13 +208,13 @@
      "Circle Privé":[
       {
          "title":"Introduction",
-         "url":"https://staging.gocircle.ai/developer-hub/demos/circle-prive-demo/introduction-prive-demo/",
+         "url":"https://gocircle.ai/developer-hub/demos/circle-prive-demo/introduction-prive-demo/",
          "active":false,
          "linkName": "prive-introduction"
       },
       {
          "title":"Demo Tips",
-         "url":"https://staging.gocircle.ai/developer-hub/demos/circle-prive-demo/demo-tips-prive-demo/",
+         "url":"https://gocircle.ai/developer-hub/demos/circle-prive-demo/demo-tips-prive-demo/",
          "active":false,
          "linkName": "prive-demo-tips"
       },
@@ -226,7 +226,7 @@
       },
       {
          "title":"Start Integrating",
-         "url":"https://staging.gocircle.ai/developer-hub/demos/circle-prive-demo/start-coding-prive-demo/",
+         "url":"https://gocircle.ai/developer-hub/demos/circle-prive-demo/start-coding-prive-demo/",
          "active":false,
          "linkName": "prive-start-integrating"
       }
@@ -237,13 +237,13 @@
    "Circle + Auth0":[
     {
        "title":"Introduction",
-       "url":"https://staging.gocircle.ai/developer-hub/demos/circle-auth0/introduction-auth0-demo/",
+       "url":"https://gocircle.ai/developer-hub/demos/circle-auth0/introduction-auth0-demo/",
        "active":false,
        "linkName": "auth0-intro"
     },
     {
        "title":"Demo Tips",
-       "url":"https://staging.gocircle.ai/developer-hub/demos/circle-auth0/circle-and-auth0-demo-tips/",
+       "url":"https://gocircle.ai/developer-hub/demos/circle-auth0/circle-and-auth0-demo-tips/",
        "active":false,
        "linkName": "auth0-demo-tips"
     },
@@ -256,7 +256,7 @@
     },
     {
        "title":"Start Integrating",
-       "url":"https://staging.gocircle.ai/developer-hub/demos/circle-auth0/start-integrating-cad-demo/",
+       "url":"https://gocircle.ai/developer-hub/demos/circle-auth0/start-integrating-cad-demo/",
        "active":false,
        "linkName": "auth0-start-integrating"
     }
