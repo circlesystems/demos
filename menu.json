@@ -58,7 +58,7 @@
       },
       {
          "title":"Basic Demo",
-         "url":"https://gocircle.ai/api/demos/access_mobile/?no_header=1",
+         "url":"https://internet.gocircle.ai/api/demos/access_mobile/?no_header=1",
          "active":false,
          "linkName": "mobile-basic-demo"
       },
