@@ -37,7 +37,7 @@
          "url":"https://internal.gocircle.ai/api/demos/php/?no_header=1&desktop=1",
          "active":false,
          "linkName": "CAD-demo"
-      },
+      }
        
      ]
   },
@@ -62,7 +62,7 @@
            "url":"https://circleauth.gocircle.ai/demo/?no_header=1",
            "active":false,
            "linkName": "mobile-interactive-demo"
-        },
+        }
        
      ]
   },
@@ -82,7 +82,7 @@
            "url":"https://internal.gocircle.ai/api/demos/php/?no_header=1",
            "active":true,
            "linkName": "360-demo"
-        },
+        }
       
      ]
   },
@@ -105,7 +105,7 @@
          "url":"https://internal.gocircle.ai/api/demos/authorization/",
          "active":false,
          "linkName": "verite-demo"
-      },
+      }
      
 
    ]
@@ -130,7 +130,7 @@
        "active":false,
        "linkName": "cot-demo",
        "target": "self"
-    },
+    }
    
    ]
 },
@@ -147,7 +147,7 @@
            "url":"https://gocircle.ai/developer-hub/demos/circle-guard-demo/video-circle-guard-demo/",
            "active":false,
            "linkName": "guard-demo"
-        },
+        }
        
      ]
   },
@@ -165,7 +165,7 @@
        "url":"https://gocircle.ai/developer-hub/demos/circle-vault-demo/video-vault-demo/",
        "active":false,
        "linkName": "vault-demo"
-    },
+    }
     
    ]
 },
@@ -188,7 +188,7 @@
          "url":"https://demos.gocircle.ai/d/filesharing/",
          "active":false,
          "linkName": "prive-demo"
-      },
+      }
     
      ]
   },
@@ -213,7 +213,7 @@
        "active":false,
        "linkName": "auth0-demo",
        "target": "self"
-    },
+    }
    
    ]
 }
