@@ -38,12 +38,7 @@
          "active":false,
          "linkName": "CAD-demo"
       },
-        {
-         "title":"Start Integrating",
-         "url":"https://gocircle.ai/developer-hub/demos/cfa-circle-of-trust/start-coding/",
-         "active":false,
-         "linkName": "CAD-start-integrating"
-      }
+       
      ]
   },
   
@@ -68,12 +63,7 @@
            "active":false,
            "linkName": "mobile-interactive-demo"
         },
-        {
-         "title":"Start Integrating",
-         "url":"https://gocircle.ai/developer-hub/demos/circle-access-mobile-demo/start-coding-cam-demo/",
-         "active":false,
-         "linkName": "mobile-start-integrating"
-        }
+       
      ]
   },
   {
@@ -93,12 +83,7 @@
            "active":true,
            "linkName": "360-demo"
         },
-        {
-         "title":"Start Integrating",
-         "url":"https://gocircle.ai/developer-hub/demos/circle-access-360/start-coding-ca-360-demo/",
-         "active":false,
-         "linkName": "360-start-integrating"
-      }
+      
      ]
   },
   {
@@ -121,12 +106,7 @@
          "active":false,
          "linkName": "verite-demo"
       },
-      {
-       "title":"Start Integrating",
-       "url":"https://gocircle.ai/developer-hub/demos/circle-verite-authorization/start-coding-verite-demo/",
-       "active":false,
-       "linkName": "verite-start-integrating"
-      }
+     
 
    ]
 },
@@ -151,12 +131,7 @@
        "linkName": "cot-demo",
        "target": "self"
     },
-    {
-       "title":"Start Integrating",
-       "url":"https://gocircle.ai/developer-hub/demos/circle-of-trust-demo/start-integrating-cot-demo/",
-       "active":false,
-       "linkName": "cot-start-integrating"
-    }
+   
    ]
 },
   {
@@ -173,12 +148,7 @@
            "active":false,
            "linkName": "guard-demo"
         },
-        {
-         "title":"Start Integrating",
-         "url":"https://gocircle.ai/developer-hub/demos/circle-guard-demo/start-coding-guard-demo/",
-         "active":false,
-         "linkName": "guard-start-coding"
-      }
+       
      ]
   },
   
@@ -196,12 +166,7 @@
        "active":false,
        "linkName": "vault-demo"
     },
-    {
-       "title":"Start Integrating",
-       "url":"https://gocircle.ai/developer-hub/demos/circle-vault-demo/start-integrating-vault-demo/",
-       "active":false,
-       "linkName": "vault-start-integrating"
-    }
+    
    ]
 },
   {
@@ -224,12 +189,7 @@
          "active":false,
          "linkName": "prive-demo"
       },
-      {
-         "title":"Start Integrating",
-         "url":"https://gocircle.ai/developer-hub/demos/circle-prive-demo/start-coding-prive-demo/",
-         "active":false,
-         "linkName": "prive-start-integrating"
-      }
+    
      ]
   },
 
@@ -254,12 +214,7 @@
        "linkName": "auth0-demo",
        "target": "self"
     },
-    {
-       "title":"Start Integrating",
-       "url":"https://gocircle.ai/developer-hub/demos/circle-auth0/start-integrating-cad-demo/",
-       "active":false,
-       "linkName": "auth0-start-integrating"
-    }
+   
    ]
 }
 ]
