@@ -185,7 +185,7 @@
       },
       {
          "title":"Demo",
-         "url":"https://demos.gocircle.ai/d/filesharing/",
+         "url":"https://demos.circlesecurity.ai/d/filesharing/",
          "active":false,
          "linkName": "prive-demo"
       }
@@ -209,7 +209,7 @@
     },
     {
        "title":"Demo",
-       "url":"https://demos.gocircle.ai/d/auth0/",
+       "url":"https://demos.circlesecurity.ai/d/auth0/",
        "active":false,
        "linkName": "auth0-demo",
        "target": "self"
