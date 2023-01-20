@@ -66,28 +66,28 @@
        
      ]
   },
-   /*
-  {
+ 
+ // {
       
 
-     "Circle Access 360":[
+   //  "Circle Access 360":[
 
-      {
-         "title":"Introduction",
-         "url":"https://circlesecurity.ai/developer-hub/demos/circle-access-360-demo/introduction-ca-360-demo/",
-         "active":false,
-         "linkName": "360-intro"
-      },
-        {
-           "title":"Demo",
-           "url":"https://internal.circlesecurity.ai/api/demos/php/?no_header=1",
-           "active":true,
-           "linkName": "360-demo"
-        }
+     // {
+       //  "title":"Introduction",
+         //"url":"https://circlesecurity.ai/developer-hub/demos/circle-access-360-demo/introduction-ca-360-demo/",
+         //"active":false,
+         //"linkName": "360-intro"
+      //},
+        //{
+          // "title":"Demo",
+           //"url":"https://internal.circlesecurity.ai/api/demos/php/?no_header=1",
+           //"active":true,
+           //"linkName": "360-demo"
+        //}
       
-     ]
-  },
-  */
+     //]
+  //},
+ 
    
   {
    "Circle Verité":[
